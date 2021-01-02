@@ -1,7 +1,8 @@
 # Electron-interface-for-google-meet-bot
 
 This is an desktop application which will just join the meeting and stays there until the meeting gets closed.
-#Note:
+
+## Note:
 
 This is still under-development.
 There are lots of things to be added such as:-
